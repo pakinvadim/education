@@ -1,0 +1,7 @@
+packages/
+obj/
+bin/
+.vs/
+Vesna/~$act.doc
+*.tmp
+.idea/
