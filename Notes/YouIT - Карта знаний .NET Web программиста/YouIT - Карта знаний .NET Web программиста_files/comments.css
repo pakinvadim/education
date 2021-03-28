@@ -1,0 +1,110 @@
+
+#comment-box-root {
+    margin-bottom: 30px;
+}
+
+div[id$='comment-box'] {
+    display: none;
+    margin-bottom: 20px;
+}
+
+.comment-answers {
+    margin-left: 60px;
+}
+
+    .comment-answers .user-ava {
+        opacity: 0.8;
+    }
+
+
+
+.answer-comment-action {
+    color: #296673;
+    font-size: 11px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+
+.comments-wrapper {
+    margin: 40px 0 50px 0;
+}
+
+.single-comment-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    margin: auto;
+    padding-bottom: 25px;
+}
+
+    .single-comment-wrapper .username {
+        font-weight: bold;
+        color: #466eb7;
+    }
+
+    .single-comment-wrapper .comment-created {
+        color: #949494;
+        font-weight: normal;
+    }
+
+    .single-comment-wrapper a {
+        color: #000;
+    }
+
+    .single-comment-wrapper .comment-text {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+.deleted-comment-text {
+    color: #747474;
+    font-style: italic;
+}
+
+
+.comment-button {
+    font-size: 15px;
+    margin-top: 3px;
+    cursor: pointer;
+    background-color: #9a9a9a;
+    width: 112px;
+    border-radius: 3px;
+    color: #fafafa;
+    padding: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+.user-ava {
+    width: 50px;
+    margin-right: 5px;
+}
+
+    .user-ava img {
+        width: 100%;
+        border-radius: 3px;
+    }
+
+
+
+/*
+     FILE ARCHIVED ON 13:33:32 Dec 26, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:19:12 Nov 13, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.191
+  CDXLines.iter: 22.609 (3)
+  captures_list: 1732.451
+  RedisCDXSource: 49.554
+  PetaboxLoader3.resolve: 321.868 (2)
+  PetaboxLoader3.datanode: 1563.348 (4)
+  esindex: 0.015
+  LoadShardBlock: 1654.566 (3)
+  load_resource: 384.842
+  exclusion.robots.policy: 0.177
+*/

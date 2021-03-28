@@ -1,0 +1,2 @@
+csc MyFirstProgram.cs //приложение
+csc /target:library MyFirstProgram.cs //библиотека
